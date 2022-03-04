@@ -132,7 +132,7 @@ Para executar o projeto basta executar classe ``` DesafioMain.java ``` será exi
 <p>
 
 Para o desenvolvimento dos testes unitários, foi utilizado o framework JUnit 5.
-Para rodar os testes basta executar a classe ```DesafioMainTeste.java```.
+Para rodar os testes basta executar a classe ```DesafioTest.java```.
 Ao finalizar o processo será exibido um relatório com o resultado dos testes.
 
 </p>
