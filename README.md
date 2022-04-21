@@ -99,7 +99,7 @@ Aplicação desenvolvida em Java 8 utilizando a IDE IntelliJ Idea.
 
 <p>Para importar o projeto, basta fazer o download do repositório:
 
-Faça o [download](---) do projeto na sua maquina e abra o projeto com sua IDE de preferência.
+Faça o [download](https://github.com/joeeefarias/desafio-capgemini-2022/archive/refs/heads/main.zip) do projeto na sua maquina e abra o projeto com sua IDE de preferência.
 
 Ou
 
