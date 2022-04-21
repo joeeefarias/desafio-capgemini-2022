@@ -79,7 +79,7 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
   <br></br> 
 
 >Desafio de código do programa Capgemini 2022
-Aplicação desenvolvida em Java 8 utilizando a IDE IntelliJ.
+Aplicação desenvolvida em Java 8 utilizando a IDE IntelliJ Idea.
 <br></br>
 
 
